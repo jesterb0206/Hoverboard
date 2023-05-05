@@ -15,11 +15,11 @@
 
 <br>
 
-![Hoverboard]()
+![Hoverboard](images/hoverboard.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Hoverboard/)
 
 <br>
 
